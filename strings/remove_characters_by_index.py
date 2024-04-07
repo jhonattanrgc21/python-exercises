@@ -9,7 +9,6 @@ def main():
             del text
         else:
             break
-            count
     sub_text = text[init_index::count + 1]
     print(sub_text)
     
